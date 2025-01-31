@@ -61,7 +61,7 @@ In der Zwischenzeit Setzt Sascha die AD auf und konfigurierte alles.
 
 ## 9. Webserver Apache2 installieren
 Und Jann hat den Apache2 Server installiert das wir einen laufenden Webserver haben.
-
+![ webserver](PXL_20250131_082246522.MP~2.jpg)
 ## 11. Linux Client Aufsetzen
 Als dies erledigt war hatten wir den Linux Client erstellt.
 
