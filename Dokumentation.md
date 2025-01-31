@@ -38,7 +38,7 @@ Zuerst erstellten wir unser Repository und fügten das gesamte Team als Collabor
 Nachdem das Repository erstellt wurde, begann Jann, die Linux-ISO-Images mithilfe von Rufus zu brennen, während Sascha die Windows-Images erstellte. Dadurch konnten wir alle benötigten Geräte neu aufsetzen.
 
 ## 3. Linux-Server und -Client aufsetzen
-Anschließend setzte Jann den Linux-Server sowie den Client auf, mithilfe der zuvor gebrannten ISOs. Anfangs funktionierte dies nicht, und wir runzelten bereits die Stirn, bis Jörg uns darauf hinwies, das HDMI-Kabel nicht am Mainboard, sondern an der Grafikkarte anzuschließen.
+Anschliessend setzte Jann den Linux-Server sowie den Client auf, mithilfe der zuvor gebrannten ISOs. Anfangs funktionierte dies nicht, und wir runzelten bereits die Stirn, bis Jörg uns darauf hinwies, das HDMI-Kabel nicht am Mainboard, sondern an der Grafikkarte anzuschließen.
 
 ## 4. Router konfigurieren
 Als Nächstes begann Andrija mit der Konfiguration des Routers. Die IP-Adresse des Routers lautet nun **192.168.1.1**, mit dem Subnetz **255.255.255.0**.
