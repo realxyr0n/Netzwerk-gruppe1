@@ -1,0 +1,3 @@
+# Reflexion 31.01.2025 Sascha
+
+Ich habe heute während dem Tag das Active Directory eingerichet zusätzlich habe ich noch auf dem Windows Server Partitionen erstellt Benutzer rechte eingstellt so wie wir es im Ük gmacht hatten mit gpos. Dazu habe ich Benutzer und Gruppen erstellt um das ganze zu testen doch zum testen sind wir leider nicht mehr gekommen weil der Windows Client 1h im Update screen war. Denoch bin bin dem heuigen TAg zufrieden und kann sagen das ich neues gelernt habe wie zum beispiel das man das ISO file auf einen USB stick brent. Ich habe abe rauch wissen erneuert wie zum Beispiel man einen AD erstellt.  
