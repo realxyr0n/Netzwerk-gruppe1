@@ -12,16 +12,12 @@
 ##### 5. Switch konfiguration
 ##### 6. Linux Server aufsetzen
 ##### 7. Proftpd installieren
-##### 8. Webserver Apache2 installieren
-##### 9. Linux Client Aufsetzen
-##### 10. Windows Client Aufsetzen
-##### 11. Beide Clients in AD Aufnehmen
-##### 12.
-##### 13.
-##### 14.
-##### 15.
-##### 16.
-##### 17.
+##### 8. AD Server Aufsetzen
+##### 9. Webserver Apache2 installieren
+##### 11. Linux Client Aufsetzen
+##### 12. Windows Client Aufsetzen
+##### 13. Beide Clients in AD Aufnehmen
+
 
 # Netzwerk-IP-Adressen
 
@@ -60,6 +56,17 @@ Jann hat dan Gleich mit dem Aufsetzen des Linux Servers begonnen.
 ## 7. Proftpd installieren
 Gleich danach hat Jann auch noch den Proftpd server instaliert das wir auf den Server zugreifen können.
 
-## 8. Webserver Apache2 installieren
+## 8. AD Server Aufsetzen
+In der Zwischenzeit Setzt Sascha die AD auf und konfigurierte alles.
+
+## 9. Webserver Apache2 installieren
 Und Jann hat den Apache2 Server installiert das wir einen laufenden Webserver haben.
 
+## 11. Linux Client Aufsetzen
+Als dies erledigt war hatten wir den Linux Client erstellt.
+
+## 12. Windows Client Aufsetzen
+Gleichzeitig hat Sascha den Windows Client erstellt.
+
+## 13. Beide Clients in AD Aufnehmen
+Als beide Clients Aufgesetzt wurden habe wir die beide in die AD aufgenommen.
