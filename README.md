@@ -23,6 +23,19 @@
 ##### 16.
 ##### 17.
 
+# Netzwerk-IP-Adressen
+
+| IP-Adresse                  | Gerätetyp        | Hostname   |
+|-----------------------------|------------------|---------------|
+| 192.168.1.1                 | Router/Gateway  | RT01           |
+| 192.168.1.2                 | Switch          | SW01           |
+| 192.168.1.10                | Linux-Server    | linuxserver    |
+| 192.168.1.11                | Windows-Server  | windowsserver  |
+| Dynamic                     | linuxclient     | linuxclient    |
+| Dynamic                     | windowsclient   | windowsclient  |
+| 192.168.1.12 - 192.168.1.25 | Clients Range   | -              |  
+| 192.168.1.3 - 192.168.1.9   | Reserviert      | -              |
+
 
 ## 1.REPO Erstellen
 Als allererstes erstellten wir unsere Repository, und fügten das Ganze Team als Collaborators.
