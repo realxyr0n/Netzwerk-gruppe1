@@ -10,10 +10,19 @@
 ##### 3. Linux server und client
 ##### 4. Router konfiguration
 ##### 5. Switch konfiguration
-##### 6.
-##### 7.
-##### 8.
-##### 9.
+##### 6. Linux Server aufsetzen
+##### 7. Proftpd installieren
+##### 8. Webserver Apache2 installieren
+##### 9. Linux Client Aufsetzen
+##### 10. Windows Client Aufsetzen
+##### 11. Beide Clients in AD Aufnehmen
+##### 12.
+##### 13.
+##### 14.
+##### 15.
+##### 16.
+##### 17.
+
 
 ## 1.REPO Erstellen
 Als allererstes erstellten wir unsere Repository, und fügten das Ganze Team als Collaborators.
@@ -30,4 +39,14 @@ biss Jörg uns sagte, dass wir das HDMI Kabel nicht ans Mainboard sondern and di
 Als nächstes begann Andrija mit der Konfiguration des Routers. Die Ip des Routers lautet nun ip: 192.168.1.1 und subnetz: 255.255.255.0. 
 
 ## 5. Switch konfiguration
+Andrija hat nach der Router Konfiguration auch gleich noch den Switch konfiguriert.
+
+## 6. Linux Server aufsetzen
+Jann hat dan Gleich mit dem Aufsetzen des Linux Servers begonnen.
+
+## 7. Proftpd installieren
+Gleich danach hat Jann auch noch den Proftpd server instaliert das wir auf den Server zugreifen können.
+
+## 8. Webserver Apache2 installieren
+Und Jann hat den Apache2 Server installiert das wir einen laufenden Webserver haben.
 
